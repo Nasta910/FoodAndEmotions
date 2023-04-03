@@ -6,7 +6,7 @@ let averageCocktail1;
 let averageCocktail2;
 let averageCocktail3;
 async function fetchData(){
-    emotionsData = await d3.csv("/data/Casus_foodEmotions_data.csv");
+    emotionsData = await d3.csv("data/Casus_foodEmotions_data.csv");
 }
 
 function putDataPerCocktail(){
