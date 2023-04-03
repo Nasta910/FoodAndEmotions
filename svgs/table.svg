@@ -1,0 +1,8 @@
+<svg width="91" height="75" viewBox="0 0 91 75" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="42.5" y1="58" x2="42.5" y2="8" stroke="black"/>
+<line x1="19.5" y1="66" x2="19.5" y2="16" stroke="black"/>
+<path d="M48 75V25" stroke="black"/>
+<line x1="45" y1="50" x2="45" stroke="black"/>
+<line x1="74.5" y1="71" x2="74.5" y2="21" stroke="black"/>
+<ellipse cx="45.5" cy="25.5" rx="45.5" ry="25.5" fill="black"/>
+</svg>
