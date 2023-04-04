@@ -3,7 +3,7 @@
 }
 
 .Neutral {
-    fill: #65DAFF;
+    fill: #e2f5fa66;
 }
 
 .Angry {
@@ -24,6 +24,10 @@
 
 .Happy {
     fill: #FFFF00;
+}
+
+.test {
+    fill: #ff35ab;
 }
 
 body{
